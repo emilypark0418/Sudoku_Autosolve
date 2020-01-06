@@ -1,3 +1,4 @@
+# two levels available  
 # auto solve the given sudoku template
 import time, copy
 from tkinter import Tk, Canvas, Frame, Button, BOTH, TOP, RIGHT, BOTTOM
